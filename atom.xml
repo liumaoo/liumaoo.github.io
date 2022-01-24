@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>liumaoo</title>
+  
+  <subtitle>既然选择了远方，便只顾风雨兼程！</subtitle>
+  <link href="https://liumaoo.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://liumaoo.github.io/"/>
+  <updated>2022-01-24T08:47:44.180Z</updated>
+  <id>https://liumaoo.github.io/</id>
+  
+  <author>
+    <name>liumaoo</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://liumaoo.github.io/2021/12/02/hello-world/"/>
+    <id>https://liumaoo.github.io/2021/12/02/hello-world/</id>
+    <published>2021-12-02T10:13:00.299Z</published>
+    <updated>2022-01-24T08:47:44.180Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to this new blog!&lt;/p&gt;
+&lt;h2 id=&quot;Thank-you-for-your-search&quot;&gt;&lt;a href=&quot;#Thank-you-for-your-search&quot; class=&quot;headerlink&quot; title=&quot;Thank</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
