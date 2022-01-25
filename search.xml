@@ -8,9 +8,21 @@
       <link href="/2021/12/02/hello-world/"/>
       <url>/2021/12/02/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to this new blog!</p><h2 id="Thank-you-for-your-search"><a href="#Thank-you-for-your-search" class="headerlink" title="Thank you for your search!"></a>Thank you for your search!</h2><p><img src="/graphics/sakura.jpg"></p><h3 id="Cout"><a href="#Cout" class="headerlink" title="Cout"></a>Cout</h3><pre class=" language-bash"><code class="language-bash">cout <span class="token operator">&lt;&lt;</span> <span class="token string">"hello world!"</span> <span class="token operator">&lt;&lt;</span> endl<span class="token punctuation">;</span></code></pre><p>More info: <a href="https://github.com/liumaoo/liumaoo.github.io">Writing</a></p><h3 id="ue4-gameplay"><a href="#ue4-gameplay" class="headerlink" title="ue4 gameplay"></a>ue4 gameplay</h3><pre class=" language-bash"><code class="language-bash">GetWorld<span class="token punctuation">(</span><span class="token punctuation">)</span>-<span class="token operator">></span>GetFirstPlayerController<span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre><p>More info: <a href="https://liumaoo.github.io/">Server</a></p>]]></content>
+        <content type="html"><![CDATA[<p>Welcome to my blog!</p><h2 id="The-begining-of-all"><a href="#The-begining-of-all" class="headerlink" title="The begining of all!"></a>The begining of all!</h2><p><img src="/graphics/sakura.jpg"></p><h3 id="hello-world"><a href="#hello-world" class="headerlink" title="hello world!"></a>hello world!</h3><pre class=" language-bash"><code class="language-bash">std::cout <span class="token operator">&lt;&lt;</span> <span class="token string">"hello world!"</span> <span class="token operator">&lt;&lt;</span> std::endl<span class="token punctuation">;</span></code></pre><p>More info: <a href="https://liumaoo.github.io/">Home</a></p>]]></content>
       
       
+      <categories>
+          
+          <category> 计算机 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C++ </tag>
+            
+        </tags>
       
     </entry>
     
