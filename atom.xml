@@ -6,7 +6,7 @@
   <link href="https://liumaoo.github.io/atom.xml" rel="self"/>
   
   <link href="https://liumaoo.github.io/"/>
-  <updated>2022-02-11T11:00:13.713Z</updated>
+  <updated>2022-02-11T11:06:24.447Z</updated>
   <id>https://liumaoo.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://liumaoo.github.io/2022/02/11/3.data/"/>
     <id>https://liumaoo.github.io/2022/02/11/3.data/</id>
     <published>2022-02-10T16:00:00.000Z</published>
-    <updated>2022-02-11T11:00:13.713Z</updated>
+    <updated>2022-02-11T11:06:24.447Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;关于整数与浮点数在计算机中的存储和运算：&lt;/p&gt;
-&lt;h2 id=&quot;整型都以补码的形式存储，浮点数以二进制的科学技术法存储。&quot;&gt;&lt;a href=&quot;#整型都以补码的形式存储，浮点数以二进制的科学技术法存储。&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;p&gt;关于整数与浮点数在计算机中的存储和运算：整型都以补码的形式存储，浮点数以二进制的科学技术法存储。&lt;/p&gt;
+&lt;h2 id=&quot;数据存储与运算&quot;&gt;&lt;a href=&quot;#数据存储与运算&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -47,7 +47,7 @@
     <link href="https://liumaoo.github.io/2022/01/28/about/"/>
     <id>https://liumaoo.github.io/2022/01/28/about/</id>
     <published>2022-01-27T16:00:00.000Z</published>
-    <updated>2022-02-11T10:29:28.798Z</updated>
+    <updated>2022-02-11T11:04:49.369Z</updated>
     
     
       
