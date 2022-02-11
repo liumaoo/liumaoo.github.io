@@ -6,7 +6,7 @@
   <link href="https://liumaoo.github.io/atom.xml" rel="self"/>
   
   <link href="https://liumaoo.github.io/"/>
-  <updated>2022-02-11T10:29:28.798Z</updated>
+  <updated>2022-02-11T10:49:21.594Z</updated>
   <id>https://liumaoo.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>数据在计算机中的存储和运算</title>
+    <link href="https://liumaoo.github.io/2022/02/11/3.data/"/>
+    <id>https://liumaoo.github.io/2022/02/11/3.data/</id>
+    <published>2022-02-10T16:00:00.000Z</published>
+    <updated>2022-02-11T10:49:21.594Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;关于整数与浮点数在计算机中的存储和运算：&lt;/p&gt;
+&lt;h2 id=&quot;整型都以补码的形式存储，浮点数以二进制的科学技术法存储。&quot;&gt;&lt;a href=&quot;#整型都以补码的形式存储，浮点数以二进制的科学技术法存储。&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="计算机" scheme="https://liumaoo.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+    
+    <category term="基础" scheme="https://liumaoo.github.io/tags/%E5%9F%BA%E7%A1%80/"/>
+    
+  </entry>
   
   <entry>
     <title>关于此博客</title>
